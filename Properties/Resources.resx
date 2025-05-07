@@ -124,17 +124,20 @@
   <data name="minus1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\TicTacToeImages\minus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="O" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\TicTacToeImages\Images\O.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="X" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\TicTacToeImages\Images\X.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="minus" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\TicTacToeImages\minus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="minusv" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\TicTacToeImages\minusv.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="square" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\TicTacToeImages\square.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="O" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\TicTacToeImages\Images\O.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="tic-tac-toe" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\TicTacToeImages\tic-tac-toe.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -142,7 +145,10 @@
   <data name="tic-tac-toe (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\TicTacToeImages\tic-tac-toe (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="minusv" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\TicTacToeImages\minusv.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="tic-tac-toe (2)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\TicTacToeImages\tic-tac-toe (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Xo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Xo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

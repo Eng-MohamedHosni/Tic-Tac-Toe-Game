@@ -143,9 +143,29 @@ namespace Tic_Tac_Toe.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap tic_tac_toe__2_1 {
+            get {
+                object obj = ResourceManager.GetObject("tic-tac-toe (2)1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap X {
             get {
                 object obj = ResourceManager.GetObject("X", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Xo {
+            get {
+                object obj = ResourceManager.GetObject("Xo", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
